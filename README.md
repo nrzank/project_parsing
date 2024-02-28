@@ -29,7 +29,7 @@
     pip install -r requirements.txt
     ```
 
-2. Запустите скрипт `main.py`:
+2. Запустите скрипт `sulpak.py`:
 
     ```bash
     python sulpak.py
